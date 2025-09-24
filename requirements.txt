@@ -1,0 +1,8 @@
+pandas
+numpy
+spacy
+nltk
+transformers
+PyPDF2
+Flask
+streamlit

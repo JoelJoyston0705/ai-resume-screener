@@ -21,3 +21,10 @@ Automatically extract skills from resumes and rank candidates based on job requi
 - Extracted key skills (Python, SQL, ML, etc.)
 - Ranked candidates for given job descriptions
 
+
+
+## ✨ Future Work
+- Add semantic similarity (BERT)
+- Web UI for HR managers
+
+
